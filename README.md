@@ -12,8 +12,8 @@
 <p align="center">
   <a href="mailto:manasdevops567@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/YOUR_GITHUB"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB&style=for-the-badge&color=667eea"/>
+  <a href="https://github.com/pradhan567"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <img src="https://komarev.com/ghpvc/?username=pradhan567&style=for-the-badge&color=667eea"/>
 </p>
 
 ---
@@ -152,7 +152,7 @@ certifications:
 ## 🐍 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB&bg_color=0D1117&color=667eea&line=764ba2&point=ffffff&area=true&hide_border=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pradhan567&bg_color=0D1117&color=667eea&line=764ba2&point=ffffff&area=true&hide_border=true" width="100%"/>
 </div>
 
 ---
