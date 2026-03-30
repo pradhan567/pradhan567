@@ -33,13 +33,6 @@ experience:
     - Kubernetes & Container Orchestration
     - Infrastructure as Code
 
-achievements:
-  - "🚀 Reduced deployment time by 83% (2 hours → 20 minutes)"
-  - "📈 Achieved 99.9% uptime across critical services"
-  - "☁️ Migrated 200TB+ to AWS with zero downtime"
-  - "💰 Cut infrastructure costs by 40% using Spot Instances"
-  - "🔧 Reduced MTTR by 50% through automation"
-
 currently_working_on:
   - Kubernetes workloads on AWS EKS
   - Observability with Prometheus & Grafana
