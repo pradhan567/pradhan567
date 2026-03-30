@@ -106,24 +106,6 @@ certifications:
 
 ---
 
-## 🏆 Achievements & Impact
-
-<div align="center">
-
-| Metric | Achievement |
-|--------|-------------|
-| ⏱️ **Deployment Time** | Reduced by **83%** (2 hours → 20 minutes) |
-| 📈 **Uptime** | Achieved **99.9%** across critical services |
-| ☁️ **Cloud Migration** | **200TB+** migrated with zero downtime |
-| 💰 **Cost Savings** | **40%** reduction using Spot Instances |
-| 🔧 **MTTR** | Reduced by **50%** through automation |
-| 📊 **Dashboards** | Built **15+** Grafana dashboards |
-| 🏗️ **Daily Builds** | Supporting **1000+** builds |
-| 🎯 **Latency** | Maintained **p95 < 200ms** |
-
-</div>
-
----
 
 ## 🎯 Key Projects & Contributions
 
